@@ -1,0 +1,19 @@
+{
+  "wheel_id": 365,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsinbrisbane-com-103",
+  "project": "garage-door-repairs-brisbane-comparison-705439917f69bdd777e26d9",
+  "parent_t1_ref": "garagedoorrepairsinbrisbane-com-151",
+  "node_role": "feeder",
+  "money_target": "garagedoorrepairsinbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane comparison",
+  "intended_url": "https://sitesau.github.io/garagedoorrepairsinbrisbane-com-103/",
+  "writeback_nonce": "dc66c94931dff62d",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-brisbane-ee9b17fd9e3c9b43bdcb989c3285062/",
+      "anchor": "garage door repairs brisbane",
+      "rel": "follow"
+    }
+  ]
+}
